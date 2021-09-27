@@ -1,0 +1,26 @@
+E:\C#\FinalTask\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.exe
+E:\C#\FinalTask\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.deps.json
+E:\C#\FinalTask\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.runtimeconfig.json
+E:\C#\FinalTask\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.runtimeconfig.dev.json
+E:\C#\FinalTask\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.dll
+E:\C#\FinalTask\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.pdb
+E:\C#\FinalTask\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.csproj.AssemblyReference.cache
+E:\C#\FinalTask\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.AssemblyInfoInputs.cache
+E:\C#\FinalTask\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.AssemblyInfo.cs
+E:\C#\FinalTask\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.csproj.CoreCompileInputs.cache
+E:\C#\FinalTask\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.dll
+E:\C#\FinalTask\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.pdb
+E:\C#\FinalTask\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.genruntimeconfig.cache
+e:\C#\FinalTask — копия\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.exe
+e:\C#\FinalTask — копия\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.deps.json
+e:\C#\FinalTask — копия\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.runtimeconfig.json
+e:\C#\FinalTask — копия\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.runtimeconfig.dev.json
+e:\C#\FinalTask — копия\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.dll
+e:\C#\FinalTask — копия\FinalTask\bin\Debug\netcoreapp3.1\FinalTask.pdb
+e:\C#\FinalTask — копия\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.csproj.AssemblyReference.cache
+e:\C#\FinalTask — копия\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.AssemblyInfoInputs.cache
+e:\C#\FinalTask — копия\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.AssemblyInfo.cs
+e:\C#\FinalTask — копия\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.csproj.CoreCompileInputs.cache
+e:\C#\FinalTask — копия\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.dll
+e:\C#\FinalTask — копия\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.pdb
+e:\C#\FinalTask — копия\FinalTask\obj\Debug\netcoreapp3.1\FinalTask.genruntimeconfig.cache
